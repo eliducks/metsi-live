@@ -3,9 +3,9 @@
 // date must look like 2026-10-16 (year-month-day). The message can run over several lines.
 // A blank line inside the message starts a new paragraph. Lines starting with // are ignored.
 
-title: welcome to announcements
+title: METSI Announcements just dropped
 date: 2026-10-15
-message: this is where news from the collective lands first. check back here for drops, updates and statements.
+message: this is where news from the collective lands first. check back here for drops, updates and statements. remember to keep an eye on our Instagram story for more updates. See you soon! 
 
-come back often.
+:) - e
 ---
