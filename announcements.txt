@@ -7,7 +7,6 @@ title: hello, world!
 date: 2026-10-15
 message: you get bonus points if you got that reference. we are testing the announcement feature. if you came from a recent instagram story, send a message to show that you were here!
 
-From: METSI Collective
 ---
 
 title: METSI announcements just dropped
