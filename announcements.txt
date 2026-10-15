@@ -1,0 +1,11 @@
+// HOW TO POST: copy a whole block below, paste it at the TOP, and change the three parts.
+// Each announcement is separated by a line with three dashes (---).
+// date must look like 2026-10-16 (year-month-day). The message can run over several lines.
+// A blank line inside the message starts a new paragraph. Lines starting with // are ignored.
+
+title: welcome to announcements
+date: 2026-10-15
+message: this is where news from the collective lands first. check back here for drops, updates and statements.
+
+come back often.
+---
